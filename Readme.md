@@ -14,7 +14,10 @@
 ### 4. Com afecta la vacunació per a la prevenció de defuncions?
 ### 5.Càlcul de la probabilitat de defunció segons número de casos en el mateix període.
 
-![formula](./img/evenness.PNG)
+<p align="center">
+<img   src="./img/eficacia.PNG">
+
+</p>
 
 <br>
 S'han seleccionat els casos registrats a Catalunya entre el 10 d'octubre i el 10 de desembre on la variant delta era la majoritària. Per a normalitzar les dades s'ha usat el percentatge de vacunats al 10 de Novembre segons el grup d'edat i la població total de Catalunya segons grup d'edat a l'1 de gener 2021.
