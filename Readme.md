@@ -13,7 +13,7 @@
 ### 3. Com afecta la vacunació per a la prevenció d'ingressos a les UCIS?
 ### 4. Com afecta la vacunació per a la prevenció de defuncions?
 ### 5.Càlcul de la probabilitat de defunció segons número de casos en el mateix període.
-
+<br><br>
 <p align="center">
 <img   src="./img/eficacia.PNG">
 
