@@ -17,4 +17,5 @@
 <br>
 S'han seleccionat els casos registrats a Catalunya entre el 10 d'octubre i el 10 de desembre on la variant delta era la majoritària. Per a normalitzar les dades s'ha usat el percentatge de vacunats al 10 de Novembre segons el grup d'edat i la població total de Catalunya segons grup d'edat a l'1 de gener 2021.
 <br>
+
 * Els datasets amb que es treballen només registren com a positiu els ciutadans amb proves PCRs positives. Es recomenable llegir detalladament els comentaris del full de càlcul abans d'arribar a conclusions errònies mirant només els resultats. A diferència dels estudis clínics on s'administra un placebo als no vacunats, aquí el comportament d'ambdós grups pot ser molt diferenciat tant en la prevenció com en la detecció. 
