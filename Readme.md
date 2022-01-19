@@ -13,5 +13,5 @@
 ### 4. Com afecta la vacunació per a la prevenció de defuncions?
 ### 5.Càlcul de la probabilitat de defunció segons número de casos en el mateix període.
 
-
+<br><br>
 * Els datasets amb que es treballen només registren com a positiu els ciutadans amb proves PCRs positives. Es recomenable llegir detalladament els comentaris del full de càlcul abans d'arribar a conclusions errònies mirant només els resultats. A diferència dels estudis clínics on s'administra un placebo als no vacunats, aquí el comportament d'ambdós grups pot ser molt diferenciat tant en la prevenció com en la detecció. 
