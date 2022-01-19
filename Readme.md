@@ -1,4 +1,4 @@
-## Valoria de l'impacte del Covid19 segons edat i estat de vacunació.
+## Valoració de l'impacte del Covid19 segons edat i estat de vacunació.
 
 #### Origen de les dades:
 [Registre de persones vacunades segons grup d'edat](https://analisi.transparenciacatalunya.cat/Salut/Vacunaci-per-al-COVID-19-dosis-administrades-per-r/tp23-dey4/data)
